@@ -3,11 +3,11 @@
    :target: https://python-telegram-bot.org
    :alt: python-telegram-bot Logo
 
-We have made you a wrapper you can't refuse
+여러분이 거부하기 힘든 Wrapper를 만들었습니다.
 
-We have a vibrant community of developers helping each other in our `Telegram group <https://telegram.me/pythontelegrambotgroup>`_. Join us!
+개발자끼리 서로 돕기 위한 바이브런트 개발자 커뮤니티 `텔레그램 그룹 <https://telegram.me/pythontelegrambotgroup>`을 만들었습니다. 가입해 주세요!
 
-*Stay tuned for library updates and new releases on our* `Telegram Channel <https://telegram.me/pythontelegrambotchannel>`_.
+`텔레그램 채널 <https://telegram.me/pythontelegrambotchannel>` 을 통해 *라이브러리 업데이트와 새로운 배포를 꾸준히 확인해주세요*.
 
 .. image:: https://img.shields.io/pypi/v/python-telegram-bot.svg
    :target: https://pypi.org/project/python-telegram-bot/
@@ -54,28 +54,28 @@ We have a vibrant community of developers helping each other in our `Telegram gr
    :alt: IRC Bridge
 
 =================
-Table of contents
+    목   차
 =================
 
-- `Introduction`_
+- `안내`_
 
-- `Telegram API support`_
+- `텔레그램 API 지원`_
 
-- `Installing`_
+- `설치`_
 
-- `Getting started`_
+- `시작하기`_
 
-  #. `Learning by example`_
+  #. `예제로 배우기`_
 
-  #. `Logging`_
+  #. `로깅(Logging)`_
 
-  #. `Documentation`_
+  #. `문서화(Documentation)`_
 
-- `Getting help`_
+- `도움말`_
 
-- `Contributing`_
+- `기여하기`_
 
-- `License`_
+- `라이선스`_
 
 ============
 Introduction
